@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanya Dixit</h1>
-<h3 align="center">Calm and driven, perpetually fueled by curiosity and love for discovery</h3>
+<h3 align="center">Calm and driven, fueled by curiosity and love for discovery</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya347&label=Profile%20views&color=0e75b6&style=flat" alt="tanya347" /> </p>
 
