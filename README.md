@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya347&label=Profile%20views&color=0e75b6&style=flat" alt="tanya347" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tangledvinezz" target="blank"><img src="https://img.shields.io/twitter/follow/tangledvinezz?logo=twitter&style=for-the-badge" alt="tangledvinezz" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/tanya-dixit-a4a256209" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanya Dixit" /></a> </p>
 
 - 🔭 I’m currently working on [ERP Portal](https://github.com/Tanya347/ERP-Portal)
 
